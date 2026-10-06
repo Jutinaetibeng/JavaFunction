@@ -110,7 +110,7 @@ public static long factorial (int number){
     for (int count = number ; count <= 1 ; count--){
         int factor = count * count;
 
-
+    
         result = factor;
 }
         return result;
